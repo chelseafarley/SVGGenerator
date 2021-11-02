@@ -1,0 +1,15 @@
+{
+  "name": "svg-generator",
+  "version": "1.0.0",
+  "description": "Generate svg files",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "Chelsea Farley",
+  "license": "ISC",
+  "dependencies": {
+    "dom-parser": "^0.1.6",
+    "fs": "0.0.1-security"
+  }
+}
